@@ -1,0 +1,10 @@
+{
+  "name": "Voice Control Assistant",
+  "description": "Voice Control Assistant dashboard and authentication portal featuring voice activation, app controls, PC system actions, Android device sync, and light/dark theme modes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
